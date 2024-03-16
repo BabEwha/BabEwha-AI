@@ -1,7 +1,9 @@
 # 🍚 밥이화(BabEwha) 🍚
-AI 기반 배달 애플리케이션 **🍚** **밥이화(BabEwha) 🍚** AI 레포지토리입니다.
+### OCR 기반 배달 애플리케이션 **🍚** **밥이화(BabEwha) 🍚** AI 레포지토리입니다.
+#### 1️⃣ Client 레포지토리 링크: https://github.com/BabEwha/BabEwha-AI
+#### 2️⃣ Backend 레포지토리 링크: https://github.com/BabEwha/BabEwha-AI
 
-<br/><br/>
+<br/>
 
 ## 🍙 프로젝트 소개
 
