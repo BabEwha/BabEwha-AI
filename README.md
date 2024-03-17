@@ -94,7 +94,7 @@
 | <img width="200" src="https://github.com/BabEwha/BabEwha-ai-private/assets/91009436/4831d60f-4719-496f-a43f-39a17e95835d"/> | <img width="200" src="https://github.com/BabEwha/BabEwha-ai-private/assets/91009436/018cdeeb-8cc5-4deb-bcd0-2882799c1499"/> |
 | --- | --- |
 | <img width="300" src="https://github.com/BabEwha/BabEwha-ai-private/assets/91009436/bb22b3b9-f7f8-4364-8faa-6c3a6fec4554"/> | <img width="300" src="https://github.com/BabEwha/BabEwha-ai-private/assets/91009436/d2f78841-cbdf-4a60-a5b0-cf45373c7add"/> |
-| **메뉴 1개** | **메뉴 2개** |
+| **1️⃣ 메뉴 1개** | **2️⃣ 메뉴 2개** |
 
 <br/>
 
@@ -111,7 +111,7 @@
 | <img width="200" src="https://github.com/BabEwha/BabEwha-ai-private/assets/91009436/2d306c90-cf27-453a-abd5-1d0ac78a7a2b"/> | <img width="200" src="https://github.com/BabEwha/BabEwha-ai-private/assets/91009436/8b01f011-026c-4bbd-a88b-9f62470b4e46"/> | <img width="200" src="https://github.com/BabEwha/BabEwha-ai-private/assets/91009436/45f51eb5-551b-44cc-a9be-70d41b24f8ff"/> |
 | --- | --- | --- |
 | <img width="300" src="https://github.com/BabEwha/BabEwha-ai-private/assets/91009436/893d9ee4-bea4-4ecd-b8ab-939eaa327d3c"/> | <img width="300" src="https://github.com/BabEwha/BabEwha-ai-private/assets/91009436/819132f5-37d2-4770-9a37-15a7aa001477"/> | <img width="300" src="https://github.com/BabEwha/BabEwha-ai-private/assets/91009436/c873a8c2-a32b-4b93-8ce0-f8ca2a87bad5"/> |
-| **% 할인** | **정액 중복 할인** | **% 할인 + 정액 할인** |
+| **1️⃣ % 할인** | **2️⃣ 정액 중복 할인** | **3️⃣ % 할인 + 정액 할인** |
 
 
 <br/>
