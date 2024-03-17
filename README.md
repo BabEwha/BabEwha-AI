@@ -55,6 +55,7 @@
 - 주문내역 캡쳐본의 text를 추출하여 'fee: 배달팁과 정액 할인 금액을 합산한 금액', 'discount: % 할인 값'을 json으로 반환
 ### 3️⃣ receipt_separate.py
 - 주문내역 캡쳐본의 text를 추출하여 'delivery: 배달팁', 'coupon: 정액 할인 금액', 'discount: % 할인 값'을 json으로 반환
+<br/>
 
 <img width="600" src="https://github.com/BabEwha/BabEwha-ai-private/assets/91009436/b36edf38-7659-44fe-a5f0-f8c5d9ea1512"/>
 
