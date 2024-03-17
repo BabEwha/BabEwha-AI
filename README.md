@@ -31,20 +31,6 @@
 
 <br/>
 
-- 총 응답 324개를 바탕으로 신뢰성 향상
-
-<br/>
-
-- 사용자가 진정으로 원하는 서비스임을 확인
-
-<br/>
-
-2️⃣ 배달 공구의 신속성을 위하여 AI (OCR) 기술 적용
-
-<br/>
-
-- 공구 참여자, 공구 개설자의 주문내역 및 영수증을 확인하여 신속하고 안전한 정산
-
 - 개발 기간: 2023.03.15(금) ~ 2023.03.17(일) <br/>
 - 예상 사용자 설문조사: 3.15(금) 21:00 ~ 3.17(일) 14:00<br/>
 - 설문 링크 (현재 폐쇄): https://docs.google.com/forms/d/e/1FAIpQLSfulZbuCy8cGD-FTW601AuBbd7FedH7zUMOYdtjfu-iqWXjSw/viewform?usp=sf_link
