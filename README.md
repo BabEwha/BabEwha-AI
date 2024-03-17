@@ -50,7 +50,7 @@
 
 ## 🍙 코드 설명
 ### 1️⃣ cart.py
-- 장바구니 캡쳐본의 text를 추출하여 'menu: 주문 음식 메뉴'와 'price: 가격'을 json으로 반환
+- 장바구니 캡쳐본의 text를 추출하여 'menu: 주문 음식 메뉴'와 'price: 메뉴 가격'을 json으로 반환
 ### 2️⃣ receipt_combined.py
 - 주문내역 캡쳐본의 text를 추출하여 'fee: 배달팁과 정액 할인 금액을 합산한 금액', 'discount: % 할인 값'을 json으로 반환
 ### 3️⃣ receipt_separate.py
