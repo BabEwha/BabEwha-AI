@@ -78,7 +78,7 @@
 ### 2. 주문내역
 | <img width="300" src="https://github.com/BabEwha/BabEwha-ai-private/assets/91009436/92de8380-1b91-454e-a40c-6bb78ba2bfd5"/> |
 | --- |
-| 주문내역의 3가지 구성 <br/> 🟩 배달팁 (delivery) <br/> 🟥 %할인 쿠폰 (discount) <br/> 🟦 정액 할인 쿠폰 (coupon) |
+| 주문내역의 3가지 구성 <br/> 🟩 배달팁 (delivery) <br/> 🟥 % 할인 쿠폰 (discount) <br/> 🟦 정액 할인 쿠폰 (coupon) |
 
 <br/>
 
