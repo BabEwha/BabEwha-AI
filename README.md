@@ -58,7 +58,8 @@
 <img width="600" src="https://github.com/BabEwha/BabEwha-ai-private/assets/91009436/b36edf38-7659-44fe-a5f0-f8c5d9ea1512"/>
 
 ### *receipt.py(2,3번)의 경우 서버 배포 후 github 파일명만 편의를 위해 수정
-##### 과금 문제로 서버를 닫게 될 경우를 대비해 캡쳐 증명
+##### ✔ 밥이화(BabEwha) 서비스에서는 receipt_separate.py 사용
+##### ✔ 과금 문제로 서버를 닫게 될 경우를 대비해 캡쳐 증명
 
 <br/>
 
